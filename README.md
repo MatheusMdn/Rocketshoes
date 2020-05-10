@@ -1,5 +1,6 @@
 # Rocketshoes
 
+![Rocketshoes](https://github.com/MatheusMdn/Rocketshoes/blob/master/src/assets/images/rocketshoes.png)
 
 E commerce
 made with React, Redux, Redux-Saga, styled-components and much more ..
